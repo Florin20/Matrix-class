@@ -1,6 +1,6 @@
 # Matrix-class
 
-A class that has methods for basic matrix operations.
+A class that contains methods for basic matrix operations.
 
 Example:
 
